@@ -1,16 +1,10 @@
-# 爱盼-网盘资源搜索Web [欢迎打赏](https://www.aipan.me/donate)
 
-🔥 爱盼-网盘资源搜索：是一个免费开源项目!
+🔥 网盘资源搜索：是一个免费开源项目!
 
-[欢迎打赏](https://www.aipan.me/donate)
-
--------------------
-👉 [爱盼-网盘资源搜索](https://www.aipan.me)
- 
 ### 🔥更新日志
 
 - 新增批量删除功能
-- 新增博客功能 （分支：[feat-admin-panel](https://github.com/unilei/aipan-netdisk-search/tree/feat-add-admin-panel)）
+- 新增博客功能 （分支：[feat-admin-panel](https://github.com/kint7669/aipan-netdisk-search-k/tree/feat-add-admin-panel)）
 - 新增批量上传数据 [csv示例](/assets//readme//demo/demo-multi.csv) [xlsx 示例](/assets/readme/demo/demo-multi.xls)
 - 增加后台管理, 访问路径：`/login` | `/admin/dashboard` | `/admin/clouddrive`
 - 后台可以增加自己的网盘资源
@@ -27,7 +21,7 @@
 
 [Vercel部署文档](/README_VERCEL.md)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/kint7669/aipan_kint.git&project-name=aipan_kint&repository-name=aipan_kint)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/kint7669/aipan-netdisk-search-k.git&project-name=aipan-netdisk-search-k&repository-name=aipan-netdisk-search-k)
 
  
 ### Docker执行，推荐使用docker compose
@@ -59,7 +53,7 @@ docker compose down
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/unilei/aipan-netdisk-search.git
+git clone https://github.com/kint7669/aipan-netdisk-search-k.git
 ```
 
 ### 2. 安装依赖
