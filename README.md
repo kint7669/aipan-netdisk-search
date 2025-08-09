@@ -27,7 +27,7 @@
 
 [Vercel部署文档](/README_VERCEL.md)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/kint7669/Aipan_KinT.git&project-name=Aipan_KinT&repository-name=Aipan_KinT)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/kint7669/aipan_kint.git&project-name=aipan_kint&repository-name=aipan_kint)
 
  
 ### Docker执行，推荐使用docker compose
